@@ -1,0 +1,10 @@
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+
+data/
+models/*.pkl
+reports/*.png
+
+.ipynb_checkpoints/
