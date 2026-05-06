@@ -392,6 +392,6 @@ A solução demonstra o ciclo completo de um modelo de visão computacional: pre
 
 ## Autor
 
-**Lucas Cota**  
-Estudante de Análise e Desenvolvimento de Sistemas  
+**Lucas Cota**
+Estudante de Análise e Desenvolvimento de Sistemas
 Foco em Backend e Engenharia de Software
